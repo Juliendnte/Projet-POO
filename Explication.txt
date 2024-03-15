@@ -1,0 +1,11 @@
+Voici les explications du jeu:
+
+-Premièrement, les touches sont les flèches, puis pour entrer il faut appuyer sur la touche espace sauf lorsqu'il faut entrer une chaine de caractère a la main alors là c'est entrer
+
+-Deuxièmement, au début du jeu tu vas choisir soit la classe héros soit ennemis ton adversaire sera automatiquement mise de la classe enfant opposé (fourmi si classe choisie est héros, et zodiaque si classe choisie est ennemie).
+L'entrainement est un mode libre ou ton personnage ne meurt pas et tu peux choisir l'adversaire que tu veux, conseiller au début pour comprendre le mode de jeu.
+Le mode Histoire est simple selon la classe choisie tu devras affronter les 12 zodiaques ou toutes les fourmis jusqu'à la reine. Ici, on peut mourir le jeu est fini lorsque l'on est à tous tués.
+
+-Troisièmement, le personnage est créé avec plusieurs attributs un nom, des points de nen, une armure avec une arme, mais surtout un type de nen selon le type de nen choisie aléatoirement les stats ne seront pas les mêmes(il y a des classes plus broken que d'autres). Et lorsque l'on attaque, il y a 3 chances sur 4 qu'une partie détermine aléatoirement un membre de l'armure.
+
+Bonne chance !
